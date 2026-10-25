@@ -1,0 +1,140 @@
+{
+  "11-3021.00": {
+    "titulo_en": "Computer and Information Systems Managers",
+    "titulo_pt": "Gerentes de Sistemas de Computação e Informação",
+    "descricao_pt": "Planejar, dirigir ou coordenar atividades em campos como o processamento de dados eletrônicos, sistemas de informação, análise de sistemas e programação de computadores.",
+    "revisado": true
+  },
+  "15-1212.00": {
+    "titulo_en": "Information Security Analysts",
+    "titulo_pt": "Analistas de Segurança da Informação",
+    "descricao_pt": "Planejar, implementar, atualizar ou monitorar medidas de segurança para a proteção das redes de computadores e da informação. Avaliação das vulnerabilidades do sistema em relação aos riscos de segurança e propõe e implementa estratégias de mitigação dos riscos. Pode assegurar o estabelecimento de controles de segurança adequados que salvaguardem os ficheiros digitais e a infraestrutura electrónica vital. Pode responder a violações de segurança de computadores e vírus.",
+    "revisado": true
+  },
+  "15-1231.00": {
+    "titulo_en": "Computer Network Support Specialists",
+    "titulo_pt": "Especialistas em Suporte de Redes de Computadores",
+    "descricao_pt": "Analisar, testar, solucionar problemas e avaliar sistemas de rede existentes, como redes de área local (LAN), redes de área ampla (WAN), redes em nuvem, servidores e outras redes de comunicação de dados. Realizar a manutenção da rede para garantir o funcionamento correto das redes com uma interrupção mínima.",
+    "revisado": true
+  },
+  "15-1232.00": {
+    "titulo_en": "Computer User Support Specialists",
+    "titulo_pt": "Especialistas em Suporte ao Usuário",
+    "descricao_pt": "Fornecer assistência técnica aos utilizadores de computadores. Responda a perguntas ou resolva problemas de computador para clientes pessoalmente, por telefone ou eletronicamente. Pode prestar assistência no que diz respeito à utilização de hardware e software de computadores, incluindo impressão, instalação, processamento de textos, correio eletrónico e sistemas operacionais.",
+    "revisado": true
+  },
+  "15-1241.00": {
+    "titulo_en": "Computer Network Architects",
+    "titulo_pt": "Arquitetos de Redes de Computadores",
+    "descricao_pt": "Projeto e implementação de redes informáticas e de informação, tais como redes de área local (LAN), redes de área ampla (WAN), intranets, extranets e outras redes de comunicação de dados. Realizar a modelagem, análise e planejamento de redes, incluindo a análise das necessidades de capacidade das infraestruturas de rede. Pode igualmente conceber medidas de segurança das redes e dos computadores. Pode pesquisar e recomendar hardware e software de redes e comunicações de dados.",
+    "revisado": true
+  },
+  "15-1242.00": {
+    "titulo_en": "Database Administrators",
+    "titulo_pt": "Administradores de Banco de Dados",
+    "descricao_pt": "Administração, teste e implementação de bases de dados informáticas, aplicando o conhecimento dos sistemas de gestão de bases de dados. Coordenar alterações nas bases de dados do computador. Identificar, investigar e resolver problemas de desempenho da base de dados, capacidade da base de dados e escalabilidade da base de dados. Pode planejar, coordenar e implementar medidas de segurança para proteger os bancos de dados de computadores.",
+    "revisado": true
+  },
+  "15-1243.00": {
+    "titulo_en": "Database Architects",
+    "titulo_pt": "Arquitetos de Banco de Dados",
+    "descricao_pt": "Estratégias de concepção de bases de dados empresariais, sistemas de armazém de dados e redes multidimensionais. Defina padrões para operações de banco de dados, programação, processos de consulta e segurança. Modelo, projeto e construção de grandes bases de dados relacionais ou armazéns de dados. Criar e otimizar modelos de dados para infraestrutura de armazenamento e fluxo de trabalho. Integrar novos sistemas com a estrutura de armazém existente e aperfeiçoar o desempenho e a funcionalidade do sistema.",
+    "revisado": true
+  },
+  "15-1243.01": {
+    "titulo_en": "Data Warehousing Specialists",
+    "titulo_pt": "Especialistas em Data Warehouse",
+    "descricao_pt": "Projetar, modelar ou implementar atividades de armazenamento de dados corporativas. Programação e configuração de armazéns de informações de base de dados e prestação de apoio aos utilizadores de armazéns.",
+    "revisado": true
+  },
+  "15-1244.00": {
+    "titulo_en": "Network and Computer Systems Administrators",
+    "titulo_pt": "Administradores de Redes e Sistemas",
+    "descricao_pt": "Instalar, configurar e manter a rede local de área (LAN), a rede de área ampla (WAN), a rede de comunicações de dados, os sistemas operacionais e os servidores físicos e virtuais de uma organização. Realizar o monitoramento do sistema e verificar a integridade e a disponibilidade dos recursos e sistemas do hardware, da rede e dos servidores. Revisão dos registos dos sistemas e das aplicações e verificação da conclusão dos trabalhos programados, incluindo os backups do sistema. Analisar o consumo de recursos da rede e do servidor e controlar o acesso do utilizador. Instalar e atualizar software e manter licenças de software. Pode auxiliar na modelagem, análise, planejamento e coordenação de redes e hardware e software de comunicações de dados.",
+    "revisado": true
+  },
+  "15-1251.00": {
+    "titulo_en": "Computer Programmers",
+    "titulo_pt": "Programadores de Computador",
+    "descricao_pt": "Criar, modificar e testar o código e scripts que permitem que os aplicativos de computador sejam executados. Trabalhar a partir de especificações elaboradas por desenvolvedores de software e web ou outros indivíduos. Pode desenvolver e escrever programas de computador para armazenar, localizar e recuperar documentos, dados e informações específicos.",
+    "revisado": true
+  },
+  "15-1252.00": {
+    "titulo_en": "Software Developers",
+    "titulo_pt": "Desenvolvedores de Software",
+    "descricao_pt": "Pesquisar, projetar e desenvolver software de computadores e redes ou programas de utilidade especializados. Analisar as necessidades dos usuários e desenvolver soluções de software, aplicando princípios e técnicas de ciência da computação, engenharia e análise matemática. Atualizar o software ou melhorar as capacidades do software existente. Pode trabalhar com engenheiros de hardware de computadores para integrar sistemas de hardware e software, e desenvolver especificações e requisitos de desempenho. Pode manter bases de dados dentro de uma área de aplicação, trabalhar individualmente ou coordenar o desenvolvimento de bases de dados como parte de uma equipe.",
+    "revisado": true
+  },
+  "15-1254.00": {
+    "titulo_en": "Web Developers",
+    "titulo_pt": "Desenvolvedores Web",
+    "descricao_pt": "Desenvolver e implementar sites, aplicações web, bases de dados de aplicações e interfaces web interativas. Avaliação do código para garantir que esteja adequadamente estruturado, atenda aos padrões do setor e seja compatível com navegadores e dispositivos. Otimizar o desempenho do site, escalabilidade e código e processos do lado do servidor. Pode desenvolver infraestrutura de sites e integrar sites com outras aplicações de computador.",
+    "revisado": true
+  },
+  "15-1255.00": {
+    "titulo_en": "Web and Digital Interface Designers",
+    "titulo_pt": "Designers Web e de Interfaces Digitais",
+    "descricao_pt": "Projetar interfaces de utilizador digitais ou sites. Desenvolver e testar layouts, interfaces, funcionalidades e menus de navegação para garantir compatibilidade e usabilidade em todos os navegadores ou dispositivos. Pode usar aplicações de framework web, bem como código e processos do lado do cliente. Pode avaliar o design da web seguindo os padrões de web e acessibilidade, e pode analisar as métricas de uso da web e otimizar os sites para comercialização e classificação nos motores de busca. Pode projetar e testar interfaces que facilitem a interação humano-computador e maximizem a usabilidade de dispositivos digitais, sites e software com foco na estética e design. Pode criar gráficos utilizados em sites e gerenciar conteúdo e links do site.",
+    "revisado": true
+  },
+  "15-1255.01": {
+    "titulo_en": "Video Game Designers",
+    "titulo_pt": "Designers de Jogos Eletrônicos",
+    "descricao_pt": "Projetar recursos essenciais de videogames. Especificar mecânicas inovadoras de jogo e jogo de papel, linhas de história e biografias de personagens. Criar e manter a documentação do projeto. Orientar e colaborar com a equipe de produção para produzir jogos como projetados.",
+    "revisado": true
+  },
+  "15-1299.04": {
+    "titulo_en": "Penetration Testers",
+    "titulo_pt": "Testadores de Invasão (Pentesters)",
+    "descricao_pt": "Avaliação da segurança do sistema de rede através da realização de ciberataques internos e externos simulados utilizando ferramentas e técnicas adversárias. Tentar violar e explorar sistemas críticos e obter acesso a informações sensíveis para avaliar a segurança do sistema.",
+    "revisado": true
+  },
+  "15-1299.05": {
+    "titulo_en": "Information Security Engineers",
+    "titulo_pt": "Engenheiros de Segurança da Informação",
+    "descricao_pt": "Desenvolver e supervisionar a implementação de procedimentos e políticas de segurança da informação. Construir, manter e atualizar tecnologias de segurança, tais como firewalls, para a utilização segura das redes de computadores e para a transmissão e recuperação de informações. Conceber e implementar controles de segurança adequados para identificar vulnerabilidades e proteger arquivos digitais e infraestruturas eletrônicas. Monitorar e responder a violações de segurança de computadores, vírus e intrusões, e realizar investigações forenses. Pode supervisionar a avaliação dos sistemas de segurança da informação.",
+    "revisado": true
+  },
+  "15-1299.06": {
+    "titulo_en": "Digital Forensics Analysts",
+    "titulo_pt": "Analistas de Forense Digital",
+    "descricao_pt": "Realizar investigações sobre crimes baseados em computadores que estabeleçam evidências documentais ou físicas, tais como mídias digitais e registos associados a incidentes de invasão cibernética. Analisar evidências digitais e investigar incidentes de segurança informática para obter informações de apoio à mitigação das vulnerabilidades do sistema e da rede. Preservar e apresentar evidências relacionadas com computadores em apoio a investigações criminais, de fraude, de contra-inteligência ou de aplicação da lei.",
+    "revisado": true
+  },
+  "15-1299.07": {
+    "titulo_en": "Blockchain Engineers",
+    "titulo_pt": "Engenheiros de Blockchain",
+    "descricao_pt": "Manter e apoiar redes distribuídas e descentralizadas baseadas em blockchain ou aplicações de cadeia de blocos, como troca de criptomoedas, processamento de pagamentos, compartilhamento de documentos e votação digital. Projetar e implantar padrões e soluções de design de cadeia de blocos seguros em redes geograficamente distribuídas utilizando tecnologias avançadas. Pode auxiliar na instalação e no teste de infraestrutura para garantir a transparência e a segurança das aplicações.",
+    "revisado": true
+  },
+  "15-1299.09": {
+    "titulo_en": "Information Technology Project Managers",
+    "titulo_pt": "Gerentes de Projetos de TI",
+    "descricao_pt": "Planejar, iniciar e gerir projetos de tecnologia da informação (TI). Liderar e orientar o trabalho do pessoal técnico. Servir de ligação entre os aspectos empresariais e técnicos dos projectos. Planejar as fases do projeto e avaliar as implicações empresariais para cada fase. Monitorar os progressos para garantir o cumprimento dos prazos, normas e metas de custos.",
+    "revisado": true
+  },
+  "15-2051.00": {
+    "titulo_en": "Data Scientists",
+    "titulo_pt": "Cientistas de Dados",
+    "descricao_pt": "Desenvolver e implementar um conjunto de técnicas ou aplicações de análise para transformar dados brutos em informações significativas usando linguagens de programação e software de visualização orientadas para dados. Aplicar a mineração de dados, modelagem de dados, processamento de linguagem natural e aprendizado de máquina para extrair e analisar informações de grandes conjuntos de dados estruturados e não estruturados. Visualizar, interpretar e relatar os resultados dos dados. Pode criar relatórios de dados dinâmicos.",
+    "revisado": true
+  },
+  "15-2051.01": {
+    "titulo_en": "Business Intelligence Analysts",
+    "titulo_pt": "Analistas de Business Intelligence",
+    "descricao_pt": "Produzir informações financeiras e de mercado através da consulta dos repositórios de dados e da geração de relatórios periódicos. Desenvolver métodos para identificar padrões e tendências de dados nas fontes de informação disponíveis.",
+    "revisado": true
+  },
+  "17-2061.00": {
+    "titulo_en": "Computer Hardware Engineers",
+    "titulo_pt": "Engenheiros de Hardware de Computador",
+    "descricao_pt": "Pesquisa, projeto, desenvolvimento ou teste de computadores ou equipamentos relacionados com computadores para uso comercial, industrial, militar ou científico. Pode supervisionar a fabricação e instalação de equipamentos e componentes de computador ou relacionados com ele.",
+    "revisado": true
+  },
+  "17-2199.08": {
+    "titulo_en": "Robotics Engineers",
+    "titulo_pt": "Engenheiros de Robótica",
+    "descricao_pt": "Pesquisar, projetar, desenvolver ou testar aplicações robóticas.",
+    "revisado": true
+  }
+}
